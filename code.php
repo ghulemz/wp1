@@ -1,6 +1,9 @@
 <?php
     //code file
     function add(){
-        return 0;
+        $x = 10;
+        $y = 11;
+
+        return $x + $y;
     }
 ?>
