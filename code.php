@@ -4,7 +4,8 @@
         $x = 10;
         $y = 11;
         $z = 12;
+        $i = 20;
 
-        return $x + $y + $z;
+        return $x + $y + $z + $i;
     }
 ?>
