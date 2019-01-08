@@ -6,4 +6,8 @@
 
         return $x + $y;
     }
+
+    function substract(){
+        return 0;
+    }
 ?>
