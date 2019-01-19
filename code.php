@@ -33,4 +33,9 @@
     function test3(){
         return 0;
     }
+
+    function newfeature(){
+        $newfeatures = array();
+        return $newfeatures;
+    }
 ?>
