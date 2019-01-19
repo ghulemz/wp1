@@ -13,6 +13,14 @@
         return 0;
     }
 
+    function other(){
+        return "";
+    }
+
+    function end(){
+        return TRUE;
+    }
+
     function another(){
         return FALSE;
     }
