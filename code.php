@@ -24,4 +24,12 @@
     function another(){
         return FALSE;
     }
+
+    function test(){
+        return FALSE;
+    }
+
+    function test3(){
+        return 0;
+    }
 ?>
