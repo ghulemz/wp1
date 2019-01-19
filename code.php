@@ -32,4 +32,10 @@
     function test3(){
         return 0;
     }
+
+    function profit() {
+        $modal = 0;
+        $modal = $modal + 20;
+        return $modal;
+    }
 ?>
