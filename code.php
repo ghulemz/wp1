@@ -16,4 +16,8 @@
     function other(){
         return "";
     }
+
+    function end(){
+        return TRUE;
+    }
 ?>
