@@ -5,8 +5,9 @@
         $y = 11;
         $z = 12;
         $i = 100;
+        $a = 20;
 
-        return $x + $y + $z + $i;
+        return ($x + $y + $z + $i) / $a;
     }
 
     function substract(){
