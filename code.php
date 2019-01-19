@@ -20,4 +20,8 @@
     function end(){
         return TRUE;
     }
+
+    function test(){
+        return FALSE;
+    }
 ?>
