@@ -39,4 +39,9 @@
         $modal = $modal + 20;
         return $modal;
     }
+
+    function newfeature(){
+        $newfeatures = array();
+        return $newfeatures;
+    }
 ?>
