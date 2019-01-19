@@ -12,4 +12,8 @@
     function substract(){
         return 0;
     }
+
+    function other(){
+        return "";
+    }
 ?>
