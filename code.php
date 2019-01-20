@@ -41,7 +41,12 @@
     }
 
     function newfeature(){
-        $newfeatures = array();
+        $newfeatures = array($this->startservices());
         return $newfeatures;
+    }
+
+    function startservices(){
+        $services = array('s1', 's2');
+        return $services;
     }
 ?>
