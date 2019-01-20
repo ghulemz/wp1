@@ -69,4 +69,8 @@
     function fitur3(){
         return "fitur3";
     }
+
+    function fitur2(){
+        return "fitur2";
+    }
 ?>
