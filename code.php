@@ -42,10 +42,18 @@
 
     function newfeature(){
         $newfeatures = array($this->startservices());
+        if(empty($newfeatures)){
+            return $this->endservices();
+        }
         return $newfeatures;
     }
 
     function startservices(){
+        $services = array('s1', 's2', 's3', 's4');
+        return $services;
+    }
+
+    function endservices(){
         $services = array('s1', 's2', 's3', 's4');
         return $services;
     }
