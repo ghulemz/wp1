@@ -75,4 +75,6 @@
     function fitur2(){
         return "fitur2";
     }
+
+    //add comment for commit
 ?>
