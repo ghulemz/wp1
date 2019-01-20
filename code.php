@@ -46,7 +46,7 @@
     }
 
     function startservices(){
-        $services = array('s1', 's2', 's3');
+        $services = array('s1', 's2', 's3', 's4');
         return $services;
     }
 ?>
